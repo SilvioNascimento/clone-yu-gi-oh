@@ -4,3 +4,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.cabecalho {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.cabecalho .titulo{
+    color: #f1ecff;
+}
